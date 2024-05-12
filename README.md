@@ -11,10 +11,10 @@
 - Создать из строки JSON объект
 - Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
 
-![image](https://github.com/Howepu/lr3_OOP_JSON/assets/125370383/72f6d48e-93e6-4a70-95df-8a46a320088e)
+![image](https://github.com/Howepu/lr4_OOP_4sem/assets/125370383/15871bd1-d09c-43fd-90e6-d187a6f5f8c2)
 
-![image](https://github.com/Howepu/lr3_OOP_JSON/assets/125370383/af6464df-e710-482e-b359-30c0d263ab19)
+![image](https://github.com/Howepu/lr4_OOP_4sem/assets/125370383/12179814-97a7-4e22-887e-c7ea26761519)
 
-![image](https://github.com/Howepu/lr3_OOP_JSON/assets/125370383/fc16b4ca-b2c9-400a-bbf0-ff0118670647)
+
 
 
